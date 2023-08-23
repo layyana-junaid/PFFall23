@@ -2,5 +2,5 @@
 ### Question 2 ![Volume](https://github.com/layyana-junaid/PFFall23/assets/142867946/d5fb00a3-74bd-4540-9230-c1c07dfa548f)
 ### Question 3 ![Triangle](https://github.com/layyana-junaid/PFFall23/assets/142867946/3cbee04a-ccc9-410d-b358-132a479c4d7c)
 ### Question 4 ![Discount](https://github.com/layyana-junaid/PFFall23/assets/142867946/b6db7785-9d2c-49df-a768-298fcaeaa7a2)
-
-
+### Question 5 ![Fuel](https://github.com/layyana-junaid/PFFall23/assets/142867946/5a6b2b72-4c52-4acf-8bbc-5cfc00282cf4)
+### Question 6 ![Volunteer](https://github.com/layyana-junaid/PFFall23/assets/142867946/2dd48c01-fe21-4a1a-bc10-b5dbdb5cd110)
