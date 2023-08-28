@@ -8,5 +8,4 @@
 #### Problem 4;
 ![Problem 4](https://github.com/layyana-junaid/PFFall23/assets/142867946/b2a8748f-36ec-4acd-ac43-3276f8575c5a)
 #### Problem 5;
-![Problem 5](https://github.com/layyana-junaid/PFFall23/assets/142867946/180d31c3-a6ad-499a-9ba3-ee9f5cc6d52e)
 
