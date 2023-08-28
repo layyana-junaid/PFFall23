@@ -6,5 +6,6 @@
 #### Problem 3;
 ![Problem 3](https://github.com/layyana-junaid/PFFall23/assets/142867946/b8713a35-1e68-44e8-b5ab-76adeb0e5d29)
 #### Problem 4;
+![Problem 4](https://github.com/layyana-junaid/PFFall23/assets/142867946/e601f062-9a58-4e2e-9f26-8ee1b1a02ef3)
 #### Problem 5;
 ![Problem 5](https://github.com/layyana-junaid/PFFall23/assets/142867946/ab340b41-8c29-45e4-9068-5a3699e20569)
