@@ -4,3 +4,5 @@
 #### Question 3 ![Problem 3](https://github.com/layyana-junaid/PFFall23/assets/142867946/c192e589-7260-46c9-a43a-c5242beaf449)
 #### Question 4 ![Problem 4](https://github.com/layyana-junaid/PFFall23/assets/142867946/5a767194-3405-4c06-8968-ccafe95505de)
 #### Question 5 ![Problem 5](https://github.com/layyana-junaid/PFFall23/assets/142867946/779d8e29-ca64-492d-8512-0549c2f9e020)
+#### Question 6 ![Q6](https://github.com/layyana-junaid/PFFall23/assets/142867946/6c8e5891-6450-489c-9649-c4ba056a9756)
+#### Question 7 ![q7](https://github.com/layyana-junaid/PFFall23/assets/142867946/5ba52e55-e0ae-495c-813e-1a787e043452)
