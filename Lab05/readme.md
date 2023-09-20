@@ -12,6 +12,8 @@
 ![Q5](https://github.com/layyana-junaid/PFFall23/assets/142867946/6b84a34d-ce16-40f1-aa7d-bce46d5eb52e)
 ##### Question 6
 ![Q6](https://github.com/layyana-junaid/PFFall23/assets/142867946/555ea3d8-09c6-495c-9d06-b92f3b578d71)
+##### Question 7
+![Q7](https://github.com/layyana-junaid/PFFall23/assets/142867946/5ee7deab-ddb3-4d80-8d67-6d4f7df869ec)
 ##### Question 8
 ![Q8](https://github.com/layyana-junaid/PFFall23/assets/142867946/65a4c8fa-3b0c-4b68-9d8c-da0ee5fc1cad)
 ##### Question 9
