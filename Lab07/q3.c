@@ -8,14 +8,18 @@
 #include <stdio.h>
 
 int main (void) {
-            int arrofNumbers[10];
+            int arrofNumbers[100];
             int sum = 0;
+            int n; // size of array
+             
+           printf("Enter the size of array: ");
+           scanf("%d",&n);
             
-            printf("Enter the elements of the array: ");
-           for ( int i=0; i < 10; i++ ) {
-            scanf("%d", &arrofNumbers[i]);
+           printf("Enter the elements of the array: ");
+              for ( int i=0; i < n; i++ ) {
+              scanf("%d", &arrofNumbers[i]);
            }
-           for ( int i=0; i < 10; i++ ) {
+           for ( int i=0; i < n; i++ ) {
              sum = sum + arrofNumbers[i];
            }
           
