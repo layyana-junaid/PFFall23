@@ -14,7 +14,7 @@ int main () {
             int q=0; // Quotient
             printf("Enter two positive integers: ");
             scanf("%d" "%d", &x, &y);
-             while ( x > y) {
+             while ( x >= y) {
                   x = x - y;
                   q = q + 1;
                } 
