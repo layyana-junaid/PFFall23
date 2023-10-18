@@ -1,4 +1,4 @@
-#include<stdio>
+#include<stdio.h>
     int subArraysum(int arr[], int n, int s) {
     int sum = arr[0];
     int start = 0;
@@ -7,7 +7,7 @@
     while( i <= n ) {
         while(sum > s && start < i - 1 ) {
             sum -= arr[start];
-            start++
+            start++;
         }
         if( sum == s ) {
             printf("The sum is found between indexes %d and %d\n", start, i - 1);
