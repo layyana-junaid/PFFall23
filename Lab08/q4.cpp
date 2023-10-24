@@ -1,3 +1,9 @@
+*Programmer: Layyana Junaid
+*Date: 24th October 23
+*Description: Q4
+
+
+
 #include <stdio.h>
 #include <cstring>
 
