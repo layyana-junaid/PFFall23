@@ -1,8 +1,8 @@
-/*
+
  *Programmer : Layyana Junaid 
  * Date : 24th October 2023
  * Desc : Lab 8 Q5
- /**
+
 
 #include <stdio.h>
 
