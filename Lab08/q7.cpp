@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 24th October 2023
+*Desc: Lab 8 Q7
+
 #include <stdio.h>
 
 float discountcalculator(int purchaseamount, int numvisits) {
