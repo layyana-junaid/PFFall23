@@ -1,8 +1,8 @@
-/*
+
  *Programmer: Layyana Junaid
  *Date: 24th October 23
  *Desc: Question 1
- /**
+ 
 #include <stdio.h>
 
 // Function to swap integers
