@@ -1,3 +1,7 @@
+ *Programmer : Layyana Junaid 
+ * Date : 24th October 2023
+ * Desc : Lab 8 Q6
+
 #include <stdio.h>
 
 void processArray(int arr[], int size, int *sum, int *max, int *min) {
