@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 28th October 2023 
+*Description: Assignment 2 Question 1
+
 #include <stdio.h>
  int main () {
  	int b; // name of the batsman or the number of batsmen
