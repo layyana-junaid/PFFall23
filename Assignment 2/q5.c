@@ -24,7 +24,7 @@ for(x = 1; x <= cbrt(n); x++) {
 		}
 	}
 } 
-    return count == 2; // check foe checking if there are exactly two different ways
+    return count == 2; // check for checking if there are exactly two different ways
 }
 
 int main () {
