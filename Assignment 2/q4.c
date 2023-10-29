@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 29th October 2023
+*Description: Assignment 2 Question 6
+
 #include <stdio.h>
 
 #define N 5
