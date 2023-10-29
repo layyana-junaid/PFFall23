@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 29th October 2023
+*Description: Assignment 2 Question 2
+	
 #include <stdio.h>
 
  // declaration of functions 
