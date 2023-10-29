@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 29th October 2023
+*Description: Assignment 2 Question 6
+	
 #include <stdio.h>
 
 int main () {
@@ -12,20 +16,20 @@ scanf("%d",&t);
 
 int i, j; // counter for 'for loop'
 for( i = 0; i < n; i++ ) {
-		printf("Enter the value of %d: ", i + 1);
-		scanf("%d",&arr[i]);
+	printf("Enter the value of %d: ", i + 1);
+	scanf("%d",&arr[i]);
 }
 
 int r; //
 for( i = 0; i < n; i++ ) {
-	if( arr[i] == r ) 
-		continue;
-		for( j = 0; j < n; j++ ) {
-			if( arr[i] + arr[j] == t ) {
-				r = arr[j];
-				printf("(%d,%d)", arr[i], arr[j]);
-			}
-		}
-	}
+if( arr[i] == r ) 
+continue;
+for( j = 0; j < n; j++ ) {
+if( arr[i] + arr[j] == t ) {
+r = arr[j];
+ printf("(%d,%d)", arr[i], arr[j]);
+}
+}
+}
 } // end main 
 
