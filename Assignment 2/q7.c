@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 30th October 23
+*Description: Assignment 2 Question 7
+
 #include <stdio.h>
 
 int main() 
@@ -10,7 +14,7 @@ int main()
     int shirt[s][2]; // array to store input
 
     int i, j; // counter for 'for loop'
-    
+    // storing the value in the 2D array
     printf("Enter age and price for each shirt:\n");
     for (i = 0; i < s; i++) {
         printf("Shirt %d Age: ", i + 1);
@@ -19,7 +23,7 @@ int main()
         printf("Shirt %d Price: ", i + 1);
         scanf("%d", &shirt[i][1]);
     }
-
+    // declaration of age and price variables
     int temp_age, temp_price;
     for (i = 0; i < s - 1; i++) {
         for (j = 0; j < s - i - 1; j++) 
