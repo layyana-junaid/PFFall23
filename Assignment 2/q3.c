@@ -1,3 +1,7 @@
+*Programmer: Layyana Junaid
+*Date: 30th October 23
+*Description: Assignment 2 Question 3
+
 #include <stdio.h>
 
 main() 
