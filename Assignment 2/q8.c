@@ -1,8 +1,10 @@
 #include <stdio.h>
 
+// declaration of presistence function 
 int calculate_persistence(int num) {
     int persistence = 0;
     
+    // calculation of the presistence number
     while (num >= 10) {
         int product = 1;
         while (num > 0) {
@@ -18,6 +20,7 @@ int calculate_persistence(int num) {
 
 int main() {
     int n;
+    
     while (1) {
         printf("Enter a positive integer (or EOF to exit): ");
         int result = scanf("%d", &n);
@@ -27,7 +30,7 @@ int main() {
         } else if (result == 0 || n < 1) {
             printf("Invalid input. Please enter a positive integer.\n");
             printf("-----------------------------------------------------\n");
-            while (getchar() != '\n'); // Clear the input buffer
+            while (getchar() != '\n'); 
             continue;
         }
         
