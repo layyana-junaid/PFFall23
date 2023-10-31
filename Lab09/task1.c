@@ -11,7 +11,7 @@
 void swap(int *a, int *b) {
 	 int tmp = *a;
 	 *a = *b;
-	 *b = *a;
+	 *b = tmp; // the value of 'tmp' will be stored as the value of 'b' because in the 'tmp' variable the value of 'a' is stored
 }
 
 int main() {
