@@ -1,11 +1,17 @@
+/**
+ *Programmer: Layyana Junaid	
+ *Date: 31 October 2023
+ *Description: Lab9b Task2
+ /**
+
 #include <stdio.h>
 
 int multiply(int num1, int num2) {
-	if(y == 0) {
+	if( num2 == 0) {
 	return 0;
 	} 
 	else {
-	return x + multiply( num1, num2 - 1);
+	return num1 + multiply( num1, num2 - 1);
 	}
 }
 
