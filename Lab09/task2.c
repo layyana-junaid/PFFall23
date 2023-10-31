@@ -1,3 +1,9 @@
+/**
+ *Programmer: Layyana Junaid	
+ *Date: 31 October 2023
+ *Description: Lab9 Task1
+ /**
+
 #include <stdio.h>
 
 // decalaration of reverse function 
