@@ -1,3 +1,9 @@
+/**
+ *Programmer: Layyana Junaid	
+ *Date: 31 October 2023
+ *Description: Lab9 Task1
+ /**
+
 #include<stdio.h>
 
 // the code which was previously given to us was not containing the pointers. Without the use of pointers the code will not perform the task which the user wants it to perform.
