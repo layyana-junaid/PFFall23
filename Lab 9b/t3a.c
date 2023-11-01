@@ -1,3 +1,11 @@
+/**
+ *Programmer: Layyana Junaid	
+ *Date: 31 October 2023
+ *Description: Lab9b Task2
+ /**
+
+
+
 #include <stdio.h>
 
 int fib(int n) {
