@@ -1,3 +1,10 @@
+/**
+  * Programmer: Layyana Junaid
+  * Date: 21st Novemeber 2023
+  * Description: Lab11 Question 03
+  * 
+  **/
+
 #include <stdio.h>
 #include <string.h>
 
