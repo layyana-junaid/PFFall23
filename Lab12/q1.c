@@ -1,6 +1,6 @@
 /**
   * Programmer: Layyana Junaid
-  * Date: 28th Novemeber 2023
+  * Date: 28th November 2023
   * Description: Lab12 Question 01
   * 
   **/
