@@ -1,7 +1,7 @@
 /**
   * Programmer: Layyana Junaid
   * Date: 21st Novemeber 2023
-  * Description: Lab11 Question 03
+  * Description: Lab11 Question 06
   * 
   **/
 #include <stdio.h>
