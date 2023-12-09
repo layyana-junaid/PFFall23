@@ -1,3 +1,9 @@
+/*
+ * Name : Layyana Junaid (23k-0056)
+ * Date : 6th December 2023
+ * Description : Taking inputs from different files and then merging them in one file
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
